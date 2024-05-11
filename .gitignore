@@ -1,0 +1,5 @@
+# Virtual environment
+.random_forests_env
+
+# IDE
+.DS_Store
